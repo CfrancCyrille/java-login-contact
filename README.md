@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 # Create a Java Web Application using Embedded Tomcat
 
@@ -22,3 +23,7 @@ $ git clone git@github.com:heroku/devcenter-embedded-tomcat.git
 If you would like to create the application yourself, then follow the Dev Center guide on how to [Create a Java Web Application using Embedded Tomcat](https://devcenter.heroku.com/articles/create-a-java-web-application-using-embedded-tomcat).
 
 
+=======
+# java-login-contact
+Simple Heroku login service with Servlet &amp; JSP
+>>>>>>> refs/remotes/origin/master
